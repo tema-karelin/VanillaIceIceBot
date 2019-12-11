@@ -1,0 +1,10 @@
+.row {
+    margin: 0 !important;
+    height: 100vh;
+}
+
+[class^="icon-"] {
+    font-size: 5vh;
+}
+
+/* @import "/css/fontello.css"; */
